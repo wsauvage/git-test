@@ -1,6 +1,6 @@
 <?
 
-echo 'TEST';
+echo 'TEST 2';
 
 
 
