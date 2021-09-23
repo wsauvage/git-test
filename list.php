@@ -1,0 +1,6 @@
+<?
+
+echo 'Liste des articles';
+
+
+
